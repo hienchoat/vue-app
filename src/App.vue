@@ -7,6 +7,7 @@ import HomeComponent from "./components/HomeComponent.vue"
 <template>
   <HeaderComponent/>
   <HomeComponent/>
+  hien
 
 </template>
 
