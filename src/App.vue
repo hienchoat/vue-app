@@ -5,7 +5,6 @@ import HomeComponent from "./components/HomeComponent.vue"
 </script>
 
 <template>
-  test
   <HeaderComponent/>
   <HomeComponent/>
 
