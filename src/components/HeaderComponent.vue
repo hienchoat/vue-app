@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  header
+  header2
 </template>
 
 <style scoped>
